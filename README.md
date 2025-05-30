@@ -135,9 +135,6 @@ Let me know if you'd like help:
 ---
 
 ## 👨‍💻 Developed by  
-[Your Name or GitHub Handle]  
+Muhammad Mehdi
 📅 Date: April 2025
 
----
-
-Let me know if you want this in a downloadable `.md` file or formatted for GitHub/GitLab! 😊
