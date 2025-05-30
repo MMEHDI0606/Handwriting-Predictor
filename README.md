@@ -1,6 +1,3 @@
-Sure! Here's a **professional and beginner-friendly `README.md`** for your **Handwritten Digit Recognizer Project**. You can place this in the root of your project folder to explain what your app does, how to run it, and how it was built.
-
----
 
 # 📝 Handwritten Digit Recognizer
 
